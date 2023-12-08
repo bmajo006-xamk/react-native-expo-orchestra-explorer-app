@@ -1,4 +1,4 @@
-Application about orchestral instruments
+React Native/Expo -project:
 
 A mobile application that allows users to explore orchestral instruments 
 and listen to sound samples of each. 
