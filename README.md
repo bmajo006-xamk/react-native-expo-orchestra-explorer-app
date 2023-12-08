@@ -1,1 +1,3 @@
-# react-native-expo-orchestra-explorer-app
+Practice work
+
+A simple mobile application to explore orchestra instruments.
